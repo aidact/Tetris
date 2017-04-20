@@ -1,0 +1,8 @@
+C:\homework\Attestation2\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\homework\Attestation2\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\homework\Attestation2\Tetris\Tetris\obj\x86\Debug\Tetris.Form1.resources
+C:\homework\Attestation2\Tetris\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+C:\homework\Attestation2\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+C:\homework\Attestation2\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\homework\Attestation2\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\homework\Attestation2\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
