@@ -1,0 +1,16 @@
+C:\Users\Aida\Documents\Tetris\Tetris24.04.2017\Tetris24.04.2017\bin\Debug\Tetris24.04.2017.exe
+C:\Users\Aida\Documents\Tetris\Tetris24.04.2017\Tetris24.04.2017\bin\Debug\Tetris24.04.2017.pdb
+C:\Users\Aida\Documents\Tetris\Tetris24.04.2017\Tetris24.04.2017\obj\x86\Debug\Tetris24._04._2017.Form1.resources
+C:\Users\Aida\Documents\Tetris\Tetris24.04.2017\Tetris24.04.2017\obj\x86\Debug\Tetris24._04._2017.Properties.Resources.resources
+C:\Users\Aida\Documents\Tetris\Tetris24.04.2017\Tetris24.04.2017\obj\x86\Debug\Tetris24.04.2017.csproj.GenerateResource.Cache
+C:\Users\Aida\Documents\Tetris\Tetris24.04.2017\Tetris24.04.2017\obj\x86\Debug\Tetris24.04.2017.exe
+C:\Users\Aida\Documents\Tetris\Tetris24.04.2017\Tetris24.04.2017\obj\x86\Debug\Tetris24.04.2017.pdb
+C:\Users\Aida\Documents\Tetris\Tetris24.04.2017\Tetris24.04.2017\obj\x86\Debug\Tetris24.04.2017.csprojResolveAssemblyReference.cache
+C:\Users\Aida\Documents\Tetris\TETRIS007\Tetris24.04.2017\obj\x86\Debug\Tetris24.04.2017.exe
+C:\Users\Aida\Documents\Tetris\TETRIS007\Tetris24.04.2017\bin\Debug\Tetris24.04.2017.exe
+C:\Users\Aida\Documents\Tetris\TETRIS007\Tetris24.04.2017\bin\Debug\Tetris24.04.2017.pdb
+C:\Users\Aida\Documents\Tetris\TETRIS007\Tetris24.04.2017\obj\x86\Debug\Tetris24.04.2017.csprojResolveAssemblyReference.cache
+C:\Users\Aida\Documents\Tetris\TETRIS007\Tetris24.04.2017\obj\x86\Debug\Tetris24._04._2017.Form1.resources
+C:\Users\Aida\Documents\Tetris\TETRIS007\Tetris24.04.2017\obj\x86\Debug\Tetris24._04._2017.Properties.Resources.resources
+C:\Users\Aida\Documents\Tetris\TETRIS007\Tetris24.04.2017\obj\x86\Debug\Tetris24.04.2017.csproj.GenerateResource.Cache
+C:\Users\Aida\Documents\Tetris\TETRIS007\Tetris24.04.2017\obj\x86\Debug\Tetris24.04.2017.pdb
